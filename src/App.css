@@ -1,0 +1,50 @@
+.App{
+  text-align: center;
+}
+.card-container{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap:1rem;
+  margin: 27px;
+  justify-content: center;
+  
+}
+.cart-value{
+  display: flex;
+  justify-content: end;
+  margin: 4px;
+  font-size: larger;
+}
+
+.card-data{
+   width: 430px;
+}
+.size{
+  height: 230px;
+}
+.card-data{
+  color: rgb(13, 13, 13);
+}
+.set-border{
+  border:3px solid black;
+  width:100%;
+  padding:15px;
+  gap:30px;
+  background-color: black;
+  color: white;
+}
+.My-btn{
+  border:none;
+  border-radius: 5px;
+  padding: 8px;
+  margin: 12px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.background{
+  background-image: url('https://github.com/selvamurugaiah/Day24-Cart-Task/blob/master/src/img.png?raw=true');
+  height:300px;
+  width:100%;
+  color:white;
+  
+}
